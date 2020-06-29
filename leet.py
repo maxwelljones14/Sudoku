@@ -15,4 +15,3 @@ def romanToInt(s):
             sum += d[s[x]]
             x += 1
     return sum
-print(romanToInt('III'))
